@@ -5,3 +5,4 @@
 - CodeForces: https://codeforces.com/profile/Snyder
 - HackTheBox: https://app.hackthebox.eu/users/668799
 - CTFtime: https://ctftime.org/user/95655
+- ProjectEuler: https://projecteuler.net/profile/snyder_.png
